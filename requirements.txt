@@ -1,0 +1,3 @@
+# Optional: progress bar for the command-line tool (hashcheck.py)
+# Opsiyonel: komut satırı aracı için ilerleme çubuğu
+tqdm
